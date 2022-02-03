@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>​
+<cards>
+    <contact name='Joe Marini'>
+        <home>+1 (415) 555-1234</home>
+        <work> +1 (800) 555-9867</work>
+        <mobile>+1 (510) 555-1212</mobile>
+        <email>joe@joe.com</email>
+    </contact>
+</cards>
