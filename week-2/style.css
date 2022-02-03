@@ -1,7 +1,16 @@
 name {
   font-weight: bold;
 }
+originalName {
+  size: 22em;
+}
+
+category{
+  content: "\a";
+}
 
 * {
   display: block;
+  background-color: aqua;
+  text-align: right;
 }
