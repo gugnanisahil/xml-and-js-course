@@ -1,0 +1,25 @@
+<xml version="1.0"  encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE employees SYSTEM "employees.dtd">
+
+<employeeList  xmlns="urn:corp:list" xmlns:emp = "urn:corp:emp"  xmlns:dep = "urn:corp:dep">
+  <personList>
+    <emp:empID>E0000001</emp:empID>
+    <emp:name>Sales</emp:name>
+    <dep:name>John Smith</dep:name>
+  </personList>
+  <personList>
+    <emp:empID>E0000002</emp:empID>
+    <emp:name>Development</emp:name>
+    <dep:name>Ichiro Tanaka</dep:name>
+  </personList>
+  <personList>
+    <emp:empID>E0000003</emp:empID>
+    <emp:name>Development</emp:name>
+    <dep:name>Jiro Suzuki</dep:name>
+  </personList>
+  <personList>
+    <emp:empID>E0000004</emp:empID>
+    <emp:name>Administrative</emp:name>
+    <dep:name>Saburo Takahashi</dep:name>
+  </personList>
+</employeeList>

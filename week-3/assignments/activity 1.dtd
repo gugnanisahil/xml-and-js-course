@@ -1,0 +1,13 @@
+[ <!ELEMENT products (product+)>
+  <!ELEMENT product (productName, manufacturer, description*, prices, productItems)>
+  <!ELEMENT productName (#PCDATA)>
+  <!ELEMENT manufacturer (#PCDATA)>
+  <!ELEMENT description (#PCDATA)>
+  <!ELEMENT prices (price+)>
+  <!ELEMENT price (#PCDATA)>
+  <!ELEMENT productItems (#PCDATA)>
+  <!ATTLIST product sku CDATA #REQUIRED>
+  <!ATTLIST product createdAt CDATA #REQUIRED>
+  <!ATTLIST product shippable CDATA #REQUIRED>
+  <!ATTLIST manufacturer id CDATA #REQUIRED>
+]>
