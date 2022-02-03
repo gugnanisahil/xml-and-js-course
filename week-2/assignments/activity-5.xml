@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE products
+[
+<!ELEMENT products (product+)>
+<!ELEMENT product (productName,manufacturer,description*,price+,productItems)>
+<!ELEMENT productName (#PCDATA)>
+<!ELEMENT manufacturer (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT productItems (#PCDATA)>
+]>
 <products>
   <product>
-    <product Name>Dog Shirt Gift Basket</product Name>
+    <productName>Dog Shirt Gift Basket</productName>
     <manufacturer>SJB Pet BoutiqueSYMBOLHERE</manufacturer>
     <description>Something for every day of the week</description>
     <price>US$35.99</price>
@@ -10,7 +20,7 @@
     <productItems>1200, 1201, 1202, 1203, 1204, 1205, 1206</productItems>
   </product>
   <product>
-    <product Name>Car Curiosity Basket</product Name>
+    <productName>Car Curiosity Basket</productName>
     <manufacturer>SJB Pet BoutiqueSYMBOLHERE</manufacturer>
     <description>Playtime morning, noon, and night</description>
     <price>US$15.99</price>
@@ -19,7 +29,7 @@
     <productItems>4430, 6500, 4434</productItems>
   </product>
   <product>
-    <product Name>Piggy Snuggle Basket</product Name>
+    <productName>Piggy Snuggle Basket</productName>
     <manufacturer>ACMESYMBOLHERE</manufacturer>
     <price>US$17.50</price>
     <price>CAD$21.96</price>
@@ -27,7 +37,7 @@
     <productItems>3230, 3232</productItems>
   </product>
   <product>
-    <product Name>Dog Snuggle Basket</product Name>
+    <productName>Dog Snuggle Basket</productName>
     <manufacturer>ACMESYMBOLHERE</manufacturer>
     <price>US$14.25</price>
     <price>CAD$17.88</price>
