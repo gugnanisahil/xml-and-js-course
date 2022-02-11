@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <label for="fullname">Your Name:</label><br>
+            <input type="'text" id="fullname" name="fullname"><br>
+            <p>Gender:</p>
+            <input type="radio" id="male" name="gender" value="Male">
+            <label for="male">Male</label><br>
+            <input type="radio" id="female" name="gender" value="Female">
+            <label for="female">Female</label><br>
+            <p>Which Game you like:</p>
+            <input type="checkbox" id="game1" name="game1" value="Football">
+            <label for="game1">Football</label><br>
+            <input type="checkbox" id="game2" name="game2" value="Basketball">
+            <label for="game2">Basketball</label><br>
+            <input type="checkbox" id="game3" name="game3" value="Other">
+            <label for="game3">Other</label><br>
+            <input type="submit" value="Submit" onclick="send()">
+            <script>
+                function send() 
+                {
+                console.log("Thanks for submitting the form");
+                }
+            </script>
+        </fieldset>
+    </form>    
+</body>
+</html>
