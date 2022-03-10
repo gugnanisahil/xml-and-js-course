@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>Project-1: Filter</title>
+    </head>
+    <body>
+        <h1>Project People</h1>
+        <p>
+            This is submitted by:
+            <br>    1. Ashley Andrew Dcuhna - #N01487173
+            <br>    2. Sahil Gugnani - #N01500419
+            <br>    3. Bhupinder Singh Virdi - #N01435365
+        </p>
+        <form onreset="onReset()">
+            <div id="radio_group">
+                <label for="input_type">Select the type of Input to filter by:</label>
+                <br>
+                <input type="radio" id="Name"
+                 name="input_type" value="name" checked>
+                <label for="Gender">Name</label>
+                <input type="radio" id="Gender"
+                 name="input_type" value="gender">
+                <label for="country">Gender</label>
+                <input type="radio" id="country"
+                 name="input_type" value="country">
+                <label for="Choice3">Country</label>
+            </div>
+            <label for="input_value">Enter the value for the filter:</label>
+            <input type="text" name="input_value" id="input_value" ></input>  
+            <br>
+            <button type="submit">Apply filter</button>
+            <button type="reset">Reset</button> 
+        </form>
+        <table id="table-main" class="striped" { border="bold" ; style="background-color: aqua" >
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Height</th>
+                <th>weight</th>
+                <th>Gender</th>
+                <th>Country</th>
+            </tr>
+        </table>
+        <script type="text/javascript" src="filter.js"></script>
+    </body>
+</html>

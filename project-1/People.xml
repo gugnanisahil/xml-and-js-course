@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<people>
+    <person gender="Male">
+        <Age>25</Age>
+        <Height>1.8</Height>
+        <weight> 65</weight>
+        <name country="India">Amit</name>
+    </person>
+    <person gender="Female">
+        <Age>33</Age>
+        <Height>1.64</Height>
+        <weight>55</weight>
+        <name country="UK"> Sarah</name>
+    </person>
+    <person gender="Male">
+        <Age>17</Age>
+        <Height>1.78</Height>
+        <weight>57</weight>
+        <name country="USA"> Mark</name>
+    </person>
+    <person gender="Female">
+        <Age>24</Age>
+        <Height>1.56</Height>
+        <weight>60</weight>
+        <name country="France"> Lily</name>
+    </person>
+    <person gender="Male">
+        <Age>15</Age>
+        <Height>1.66</Height>
+        <weight>48</weight>
+        <name country="Japan"> Takashi</name>
+    </person>
+    <person gender="Female">
+        <Age>42</Age>
+        <Height>1.60</Height>
+        <weight>54</weight>
+        <name country="UK"> Mary</name>
+    </person>
+     <person gender="Male">
+        <Age>31</Age>
+        <Height>1.87</Height>
+        <weight>70</weight>
+        <name country="Spain"> Jose</name>
+    </person>
+    <person gender="Female">
+        <Age>23</Age>
+        <Height>1.59</Height>
+        <weight>58</weight>
+        <name country="India"> Dia</name>
+    </person>
+     <person gender="Male">
+        <Age>29</Age>
+        <Height>1.85</Height>
+        <weight>78</weight>
+        <name country="Denmark"> Lucas</name>
+    </person>
+    <person gender="Female">
+        <Age>35</Age>
+        <Height>1.59</Height>
+        <weight>60</weight>
+        <name country="UK"> Beth</name>
+    </person>
+    <person gender="Female">
+        <Age>25</Age>
+        <Height>1.39</Height>
+        <weight>70</weight>
+        <name country="UK"> Cassandra</name>
+    </person>
+    <person gender="Male">
+        <Age>25</Age>
+        <Height>1.79</Height>
+        <weight>78</weight>
+        <name country="UK"> Javed</name>
+    </person>
+    <person gender="Female">
+        <Age>45</Age>
+        <Height>1.49</Height>
+        <weight>90</weight>
+        <name country="Canada"> Cathrine</name>
+    </person>
+    <person gender="Female">
+        <Age>20</Age>
+        <Height>1.64</Height>
+        <weight>45</weight>
+        <name country="Trinidad"> Comille</name>
+    </person>
+    <person gender="Female">
+        <Age>21</Age>
+        <Height>1.39</Height>
+        <weight>50</weight>
+        <name country="India"> Saminah</name>
+    </person>
+    <person gender="Male">
+        <Age>20</Age>
+        <Height>1.99</Height>
+        <weight>92</weight>
+        <name country="Canada"> Japraj</name>
+    </person>
+    <person gender="Male">
+        <Age>45</Age>
+        <Height>1.89</Height>
+        <weight>80</weight>
+        <name country="UK"> Marc</name>
+    </person>
+    <person gender="Female">
+        <Age>22</Age>
+        <Height>1.39</Height>
+        <weight>60</weight>
+        <name country="UK"> Reta</name>
+    </person>
+    <person gender="Male">
+        <Age>25</Age>
+        <Height>1.98</Height>
+        <weight>96</weight>
+        <name country="Africa"> Victor</name>
+    </person>
+    <person gender="Male">
+        <Age>43</Age>
+        <Height>1.29</Height>
+        <weight>55</weight>
+        <name country="Vietnam"> Tony</name>
+    </person>
+    <person gender="Male">
+        <Age>23</Age>
+        <Height>1.89</Height>
+        <weight>85</weight>
+        <name country="USA"> Connor</name>
+    </person>
+    <person gender="Female">
+        <Age>29</Age>
+        <Height>1.69</Height>
+        <weight>65</weight>
+        <name country="Canada"> Ronda</name>
+    </person>
+    <person gender="Male">
+        <Age>34</Age>
+        <Height>1.5</Height>
+        <weight>45</weight>
+        <name country="India"> Jaskaran</name>
+    </person>
+    <person gender="Male">
+        <Age>25</Age>
+        <Height>1.9</Height>
+        <weight>75</weight>
+        <name country="Pakistan"> Aamir</name>
+    </person>
+    <person gender="Female">
+        <Age>39</Age>
+        <Height>1.39</Height>
+        <weight>59</weight>
+        <name country="UK"> Freya</name>
+    </person>
+    <person gender="Male">
+        <Age>28</Age>
+        <Height>1.89</Height>
+        <weight>75</weight>
+        <name country="Ireland"> Josh</name>
+    </person>
+    <person gender="Male">
+        <Age>33</Age>
+        <Height>1.75</Height>
+        <weight>77</weight>
+        <name country="USA"> Simon</name>
+    </person>
+    <person gender="Male">
+        <Age>27</Age>
+        <Height>1.98</Height>
+        <weight>88</weight>
+        <name country="Frane"> Eric</name>
+    </person>
+    <person gender="Female">
+        <Age>43</Age>
+        <Height>1.49</Height>
+        <weight>55</weight>
+        <name country="Canada"> Ella</name>
+    </person>
+    <person gender="Male">
+        <Age>31</Age>
+        <Height>1.89</Height>
+        <weight>75</weight>
+        <name country="Spain"> Sergio</name>
+    </person>
+</people>
