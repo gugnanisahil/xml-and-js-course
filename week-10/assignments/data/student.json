@@ -1,0 +1,23 @@
+[
+    {
+        "rollno" : 393,
+        "firstname" : "Dinkar",
+        "lastname": "Kad",
+        "nickname": "Dinkar",
+        "marks":"85"
+    },
+    {
+        "rollno" : 493,
+        "firstname" : "Vaneet",
+        "lastname": "Gupta",
+        "nickname": "Vinni",
+        "marks":"95"
+    },
+    {
+        "rollno" : 593,
+        "firstname" : "Jasvir",
+        "lastname": "singh",
+        "nickname": "Jazz",
+        "marks":"90"
+    }
+]
